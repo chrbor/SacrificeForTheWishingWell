@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Spikes
+  - Hitbox
+  - Well
+  - Player
+  - Object
+  - Bridge
+  - Child
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1164075951
+    locked: 0
+  - name: Objects
+    uniqueID: 2543737243
+    locked: 0
+  - name: Player
+    uniqueID: 3821064763
+    locked: 0
+  - name: Well
+    uniqueID: 871384221
+    locked: 0
+  - name: Forground
+    uniqueID: 1019742737
+    locked: 0
+  - name: UI
+    uniqueID: 3391841317
+    locked: 0
+  - name: TEST
+    uniqueID: 2319573865
+    locked: 0
